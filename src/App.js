@@ -1,3 +1,6 @@
+//John Henry Fitzgerald
+//My First React Project
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
